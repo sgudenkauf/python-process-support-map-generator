@@ -1,0 +1,5 @@
+ID,Software Name,Description,URL,Status
+1,CRM System,Customer Relationship Management software,https://crm.example.com,Development
+2,ERP System,Enterprise Resource Planning software,https://erp.example.com,Production
+3,HR Tool,Human Resources management tool,https://hr.example.com,Maintenance
+4,Analytics Platform,Data analytics and reporting platform,https://analytics.example.com,Decommissioned
