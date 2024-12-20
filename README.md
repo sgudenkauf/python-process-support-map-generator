@@ -51,19 +51,19 @@ Follow these steps to set up the project environment and dependencies:
 2. **Create a virtual environment:**
 
     ```bash
-    python -m venv venv
+    python -m venv .venv
     ```
 
 3. **Activate the virtual environment:**
 
    - **Windows:**
       ```bash
-      .\venv\Scripts\activate
+      .\.venv\Scripts\activate
       ```
 
    - **macOS/Linux:**
       ```bash
-      source venv/bin/activate
+      source .venv/bin/activate
       ```
 
 4. **Install dependencies:**
